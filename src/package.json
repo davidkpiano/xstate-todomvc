@@ -1,0 +1,24 @@
+{
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "@xstate/react": "0.3.0",
+    "classnames": "latest",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "source-map": "0.7.3",
+    "todomvc-app-css": "^2.0.0",
+    "todomvc-common": "^1.0.0",
+    "uuid-v4": "0.1.0",
+    "xstate": "4.6.0-rc2"
+  },
+  "keywords": [
+    "hooks",
+    "statechart",
+    "state machine",
+    "xstate",
+    "react"
+  ],
+  "name": "xstate-todomvc",
+  "description": "The TodoMVC app implemented with React (using hooks) and XState version 4."
+}
